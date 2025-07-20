@@ -66,6 +66,9 @@ Join if you’re experienced with:
 * Firebase (Firestore, Auth, Cloud Functions)
 * Zustand (state management)
 * GCP (Functions, Hosting, Billing APIs)
+* SCRUM Methodology
+* UIUX (Figma)
+* Manual & Automated testing (Playwright)
 
 ✅ Work on real-time scheduling, address-based grouping, and user flows
 ✅ Help shape an app that can scale from a single street to entire suburbs
