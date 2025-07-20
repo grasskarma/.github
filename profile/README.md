@@ -73,7 +73,7 @@ Join if you’re experienced with:
 
 ### ⏰ Availability:
 
-* Daily standups at 11am AEST (Melbourne time)
+* Daily standups at 12pm AEST (Melbourne time)
 * Work async on Discord
 * 10–15 hrs/week
 
