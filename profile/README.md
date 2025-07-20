@@ -58,7 +58,7 @@ We’re solving a hyper-local problem with global potential — and we need **am
 
 Whether you're senior and ready to lead, or just starting out and eager to learn by doing, there's a place for you here.
 
-## 💻 Web Dev Volunteers (TS/React/Firebase)
+## 💻 Experienced Devs/Testers/UIUX/SCRUM Volunteers 
 
 Join if you’re experienced with:
 
