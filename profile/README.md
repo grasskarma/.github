@@ -79,7 +79,7 @@ Join if you’re experienced with:
 
 ---
 
-## 🎓 Learning Program for Interns
+## 🎓 Learning Program for Interns/Students
 
 Want to learn by building a real product that helps real people?
 We’re running a **live-learning program** for devs, designers, and testers.
@@ -107,7 +107,7 @@ We’re running a **live-learning program** for devs, designers, and testers.
 * **Starts:** Rolling intake
 * **Meetings:** \~3/week (11am Melbourne time)
 * **Duration:** 8+ weeks (get a reference + certificate)
-* **Fee:** \$25/week to support mentors and sustainability
+* **Fee:** \$25/week
 * **Tools:** Discord, Google Meet, GitHub, Vercel, Firebase Console
 
 ---
